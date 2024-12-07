@@ -14,15 +14,20 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **C programming**
+- 🌱 I’m currently learning **C programming**  
+- 🔭 I’m working on improving my problem-solving skills  
+- 🎯 Next goal: Learn **Python**  
+- 💬 Ask me about **C and basic programming concepts**  
+
+---
 
 <h3 align="left" style="color: #333;">Connect with me:</h3>
 <p align="left">
     <a href="https://instagram.com/x.chr1st1n" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x.chr1st1n" height="30" width="40" />
     </a>
-    <a href="https://www.hackerrank.com/@2006christinraju" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@2006christinraju" height="30" width="40" />
+    <a href="https://www.hackerrank.com/2006christinraju" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2006christinraju" height="30" width="40" />
     </a>
 </p>
 
@@ -31,11 +36,26 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/> 
+    </a>
 </p>
+
+---
+
+<h3 align="left" style="color: #333;">Projects:</h3>
+- **[Project Name 1](#)**: Brief description of the project.  
+- **[Project Name 2](#)**: Another cool project you’re working on.  
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christinraju&show_icons=true&locale=en&layout=compact" alt="christinraju" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christinraju&show_icons=true&locale=en" alt="christinraju" /></p>
 
 </div>
+
 
