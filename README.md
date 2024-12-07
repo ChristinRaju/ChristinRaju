@@ -12,7 +12,7 @@
     </a> 
 </p>
 
-<img align="right" alt="Coding Avatar" width="300" style="border-radius: 15px;" src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif">
+<img align="right" alt="Coding Avatar" width="300" style="border-radius: 15px;" src="https://media.giphy.com/media/hfMlCqDqY6aYhOeqHp/giphy.gif">
 
 ---
 
