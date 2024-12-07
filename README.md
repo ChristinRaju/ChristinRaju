@@ -12,7 +12,7 @@
     </a> 
 </p>
 
-<img align="right" alt="Coding Avatar" width="300" style="border-radius: 15px;" src="https://media.giphy.com/media/hfMlCqDqY6aYhOeqHp/giphy.gif">
+<img align="right" alt="Person coding" width="300" style="border-radius: 15px;" src="https://media.giphy.com/media/1r22lni1CN6uB0TeNY/giphy.gif">
 
 ---
 
@@ -56,3 +56,4 @@
 <p align="center">🚀 I’m open to collaborating on **C programming projects** and exploring problem-solving challenges!</p>
 
 </div>
+
