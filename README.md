@@ -1,67 +1,88 @@
-<div style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 15px; color: #e0e0e0; font-family: 'Consolas', monospace;">
 
-<h1 align="center" style="color: #00ffff; font-size: 3rem;">🚀 Welcome to My Futuristic Hub! 🚀</h1>
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; font-family: 'Arial', sans-serif;">
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=christinraju&label=Visitors&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+<h1 align="center" style="color: #333;">Hi 👋, I'm ChristinRaju</h1>
 
 <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=christinraju&label=Profile%20views&color=0e75b6&style=flat" alt="christinraju" /> 
+</p>
+
+<p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=christinraju&theme=darkhub" alt="Achievements" />
+        <img src="https://github-profile-trophy.vercel.app/?username=christinraju" alt="christinraju" />
     </a> 
 </p>
 
-<img align="right" alt="Person coding" width="300" style="border-radius: 15px;" src="https://media.giphy.com/media/1r22lni1CN6uB0TeNY/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
----
+- 🌱 I’m currently learning **C programming**
 
-### 🌌 **About Me**
-- 🌱 I’m currently focused on mastering **C Programming**.  
-- 🔧 Passionate about problem-solving and algorithm design in C.  
-- ⚡ Fun Fact: I believe the elegance of C programming is in its simplicity and power.  
-
----
-
-<h3 align="center" style="color: #00ffff;">✨ Connect With Me ✨</h3>
-<p align="center">
+<h3 align="left" style="color: #333;">Connect with me:</h3>
+<p align="left">
     <a href="https://instagram.com/x.chr1st1n" target="blank">
-        <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x.chr1st1n" height="30" width="40" />
     </a>
-    <a href="https://www.hackerrank.com/2006christinraju" target="blank">
-        <img src="https://img.shields.io/badge/Hackerrank-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <a href="https://www.hackerrank.com/@2006christinraju" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@2006christinraju" height="30" width="40" />
     </a>
 </p>
 
----
+<h3 align="left" style="color: #333;">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    </a> 
+</p>
 
-<h3 align="center" style="color: #00ffff;">⚙️ Tools & Skills ⚙️</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christinraju&show_icons=true&locale=en&layout=compact" alt="christinraju" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christinraju&show_icons=true&locale=en" alt="christinraju" /></p>
+
+<!-- Custom Button Code -->
+<h3 align="center" style="color: #333;">✨ Interactive Button ✨</h3>
 <p align="center">
-    <!-- Remove the C icon and add a custom button -->
-    <button class="Btn">
+    <button class="btn">
         <div class="svgContainer">
-            <span style="color: #fff;">CS</span>
+            <span style="color: #333; font-weight: bold;">CS</span>
             <div class="BG"></div>
         </div>
     </button>
 </p>
 
----
-
-<h3 align="center" style="color: #00ffff;">📊 GitHub Stats 📊</h3>
-<p align="center">
-    <img src="https://camo.githubusercontent.com/24e8a974c1f3686fa41ac329b72a5f39e4172c3664180c166ff212a61773d953/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636872697374696e72616a752673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" alt="GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=christinraju&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;" />
-</p>
-
----
-
-<h3 align="center" style="color: #00ffff;">🌌 Let's Collaborate 🌌</h3>
-<p align="center">🚀 I’m open to collaborating on **C programming projects** and exploring problem-solving challenges!</p>
-
-</div>
-
 <!-- Add the CSS for the custom button -->
 <style>
+  .btn {
+    display: grid;
+    place-items: center;
+    background: #e3edf7;
+    padding: 1.4em;
+    border-radius: 10px;
+    box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+                -6px -6px 10px -1px rgba(255,255,255,0.7);
+    border: 1px solid rgba(0,0,0,0);
+    cursor: pointer;
+    transition: transform 0.5s;
+  }
+
+  .btn:hover {
+    box-shadow: inset 4px 4px 6px -1px rgba(0,0,0,0.2),
+                inset -4px -4px 6px -1px rgba(255,255,255,0.7),
+                -0.5px -0.5px 0px rgba(255,255,255,1),
+                0.5px 0.5px 0px rgba(0,0,0,0.15),
+                0px 12px 10px -10px rgba(0,0,0,0.05);
+    border: 1px solid rgba(0,0,0,0.1);
+    transform: translateY(0.5em);
+  }
+
+  .btn svg {
+    transition: transform 0.5s;
+  }
+
+  .btn:hover svg {
+    transform: scale(0.9);
+    fill: #333333;
+  }
+
   .Btn {
     width: 45px;
     height: 45px;
@@ -83,7 +104,7 @@
     align-items: center;
     justify-content: center;
     background-color: transparent;
-    backdrop-filter: blur(0px);
+    backdrop-filter: blur(4px);
     letter-spacing: 0.8px;
     border-radius: 10px;
     transition: all .3s;
@@ -95,9 +116,13 @@
     content: "";
     width: 100%;
     height: 100%;
-    background: #181818;
+    background: #f09433;
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
     z-index: -1;
-    border-radius: 10px;
+    border-radius: 9px;
     pointer-events: none;
     transition: all .3s;
   }
@@ -109,7 +134,7 @@
 
   .Btn:hover .svgContainer {
     background-color: rgba(156, 156, 156, 0.466);
-    backdrop-filter: blur(4px);
   }
 </style>
 
+</div>
