@@ -12,7 +12,7 @@
     </a> 
 </p>
 
-<img align="right" alt="AI Avatar" width="300" style="border-radius: 15px;" src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif">
+<img align="right" alt="Coding Avatar" width="300" style="border-radius: 15px;" src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif">
 
 ---
 
@@ -54,32 +54,10 @@
 
 ---
 
-<h3 align="center" style="color: #00ffff;">🌟 Featured Projects 🌟</h3>
-<div align="center">
-    <ul>
-        <li>🤖 <b>[AI Chatbot](#)</b>: A Python-based chatbot utilizing NLP techniques.</li>
-        <li>📊 <b>[Data Analysis Dashboard](#)</b>: Automating insights using Pandas and Matplotlib.</li>
-        <li>🌐 <b>[Futuristic Portfolio Website](#)</b>: Showcasing AI projects in a futuristic design.</li>
-    </ul>
-</div>
-
----
-
 <h3 align="center" style="color: #00ffff;">📊 GitHub Stats 📊</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=christinraju&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=christinraju&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-<h3 align="center" style="color: #00ffff;">🌠 Animations 🌠</h3>
-<p align="center">
-    <img src="https://github.com/ashutosh00710/ashutosh00710/blob/master/animated-coding.svg" alt="Coding Animation" width="600" />
-</p>
-
-<p align="center">
-    <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" alt="AI Animation" width="600" />
 </p>
 
 ---
