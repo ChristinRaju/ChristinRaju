@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=christinraju&label=Profile%20views&color=0e75b6&style=flat" alt="christinraju" /> 
 </p>
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=christinraju" alt="christinraju" />
     </a> 
@@ -14,10 +14,14 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **C programming**  
-- 🔭 I’m working on improving my problem-solving skills  
-- 🎯 Next goal: Learn **Python**  
-- 💬 Ask me about **C and basic programming concepts**  
+---
+
+### 🌟 **About Me**
+- 🌱 I’m currently learning **C programming** and **AI concepts**  
+- 🤖 Exploring the intersection of **AI** and **Problem-Solving**  
+- 🎯 Next goal: Dive into **Python for Machine Learning**  
+- 💬 Ask me about **C, AI basics, and algorithms**  
+- ✨ Fun Fact: I enjoy solving puzzles and creating intelligent solutions!  
 
 ---
 
@@ -31,31 +35,53 @@
     </a>
 </p>
 
+---
+
 <h3 align="left" style="color: #333;">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/> 
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+    </a>
+    <a href="https://www.scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
     </a>
 </p>
 
 ---
 
 <h3 align="left" style="color: #333;">Projects:</h3>
-- **[Project Name 1](#)**: Brief description of the project.  
-- **[Project Name 2](#)**: Another cool project you’re working on.  
+- 🤖 **[AI Chatbot](#)**: A simple chatbot using **Python** and **Natural Language Processing** (NLP).  
+- 📊 **[Data Analysis Tool](#)**: Automated data analysis with **Pandas** and **Matplotlib**.  
+- 🚀 **[Portfolio Website](#)**: Personal website to showcase projects and skills.  
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christinraju&show_icons=true&locale=en&layout=compact" alt="christinraju" /></p>
+<h3 align="left" style="color: #333;">🎥 Animations and Interactivity:</h3>
+<p>
+    <img align="left" alt="AI Animation" width="320" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+    <img align="center" alt="Coding Animation" width="320" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christinraju&show_icons=true&locale=en" alt="christinraju" /></p>
+---
+
+<h3 align="left" style="color: #333;">GitHub Stats:</h3>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christinraju&show_icons=true&locale=en&layout=compact" alt="christinraju" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christinraju&" alt="christinraju" />
+</p>
+
+---
+
+<h3 align="left" style="color: #333;">🚀 Fun Animations:</h3>
+<p align="center">
+    <img src="https://github.com/ashutosh00710/ashutosh00710/blob/master/animated-coding.svg" alt="coding" width="500" />
+</p>
 
 </div>
-
 
