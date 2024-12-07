@@ -17,10 +17,9 @@
 ---
 
 ### 🌌 **About Me**
-- 🤖 **AI Enthusiast** diving into the world of Machine Learning and Data Science.  
-- 🌱 Currently mastering **C Programming**, with a focus on problem-solving.  
-- 🎯 Aspiring to build **AI-powered solutions** that revolutionize industries.  
-- ⚡ Fun Fact: I believe code is the closest thing we have to magic.  
+- 🌱 I’m currently focused on mastering **C Programming**.  
+- 🔧 Passionate about problem-solving and algorithm design in C.  
+- ⚡ Fun Fact: I believe the elegance of C programming is in its simplicity and power.  
 
 ---
 
@@ -36,19 +35,10 @@
 
 ---
 
-<h3 align="center" style="color: #00ffff;">⚙️ Languages & Tools ⚙️</h3>
+<h3 align="center" style="color: #00ffff;">⚙️ Tools & Skills ⚙️</h3>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-    </a>
-    <a href="https://www.tensorflow.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
-    </a>
-    <a href="https://www.scikit-learn.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" />
     </a>
 </p>
 
@@ -63,6 +53,6 @@
 ---
 
 <h3 align="center" style="color: #00ffff;">🌌 Let's Collaborate 🌌</h3>
-<p align="center">🚀 I’m open to collaborating on AI projects, data visualization tools, and innovative tech solutions!</p>
+<p align="center">🚀 I’m open to collaborating on **C programming projects** and exploring problem-solving challenges!</p>
 
 </div>
