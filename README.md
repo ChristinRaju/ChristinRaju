@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **C programming**
+
 
 <h3 align="left" style="color: #333;">Connect with me:</h3>
 <p align="left">
