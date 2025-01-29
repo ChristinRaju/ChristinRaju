@@ -54,3 +54,7 @@
 </p>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/ChristinRaju/ChristinRaju/output/snake.svg" alt="Snake animation" />
+
+###
