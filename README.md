@@ -1,4 +1,4 @@
-# "Hey there! I'm Christin Raju 👋, a passionate Cybersecurity student specializing in penetration testing, ethical hacking, and network security. Currently pursuing a BCA in Cybersecurity at NITTE Institute of Professional Education, I am dedicated to strengthening security landscapes and protecting digital assets. Looking for opportunities to collaborate and enhance cybersecurity measures in real-world applications!"
+# "Hey there! I'm Christin Raju 👋
 
 ###
 
