@@ -5,7 +5,7 @@
 ## 🔹 About Me  
 
 Hey there! I'm **Christin Raju**, a passionate **cybersecurity enthusiast** and **aspiring penetration tester**.  
-I'm currently pursuing a **BCA in Cybersecurity** at **NITTE Institute of Professional Education**, where I focus on **ethical hacking, network security, and digital forensics**.  
+I focus on **ethical hacking, network security, and digital forensics**, aiming to build a strong foundation in cybersecurity.  
 
 ### 🚀 Tech Stack & Skills  
 <div align="left">
