@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Christin Raju  
+<h1 align=center>👋 Hey there! I'm Christin Raju</h1>
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
 
