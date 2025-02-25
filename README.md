@@ -56,3 +56,61 @@ I focus on **ethical hacking, network security, and digital forensics**, aiming 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ChristinRaju/count.svg?"  />
 </div>
+
+
+
+
+
+
+
+
+
+
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/javascript-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
+      <br>HTML
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="65" height="65" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ubuntu-icon.svg" alt="Ubuntu" width="65" height="65" />
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="65" height="65" />
+      <br>VS Code
+    </td>
+  </tr>
+</table>
+
