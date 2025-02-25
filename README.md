@@ -67,6 +67,7 @@ I focus on **ethical hacking, network security, and digital forensics**, aiming 
 
 
 
+![JavaScript Logo Animation](animation.gif)
 
 
 
