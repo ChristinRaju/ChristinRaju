@@ -59,15 +59,7 @@ I focus on **ethical hacking, network security, and digital forensics**, aiming 
 </div>
 
 
-
-
-
-
-
-
-
-
-![JavaScript Logo Animation](animation.gif)
+![JavaScript Logo Animation](Animation.gif)
 
 
 
