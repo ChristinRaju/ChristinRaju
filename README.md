@@ -4,8 +4,7 @@
 
 ## 🔹 About Me  
 
-Hey there! I'm **Christin Raju**, a passionate **cybersecurity enthusiast** and **aspiring penetration tester**.  
-I focus on **ethical hacking, network security, and digital forensics**, aiming to build a strong foundation in cybersecurity.  
+Hey there! I'm **Christin Raju**, I'm deeply passionate about cybersecurity, ethical hacking, and networking. I thrive on breaking into systems (ethically, of course!) and learning how to make them more secure. With a strong interest in network security and web application security, I'm constantly exploring new attack vectors and defense strategies.
 
 ### 🚀 Tech Stack & Skills  
 <div align="left">
