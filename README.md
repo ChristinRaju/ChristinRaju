@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
 </div>
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true"></a>
 
 ## 📊 GitHub Stats  
 <div align="center">
@@ -39,30 +39,44 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristinRaju&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150">
 </div>
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true"></a>
 
-## 🌐 Socials:
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2006christinraju@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christin-raju/) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/christinraju)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/AIchristin/)
+<table>
+  <tr>
+    <td>
+      <h3>
+        <img src='https://github.com/HXMAN76/HXMAN76/blob/main/Assets/handshake.gif?raw=true' width="100px"> Socials:
+      </h3>
+      <a href="mailto:2006christinraju@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <a href="https://www.linkedin.com/in/christin-raju/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="https://www.kaggle.com/christinraju">
+        <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+      </a>
+      <a href="https://leetcode.com/u/AIchristin/">
+        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06" />
+      </a>
+      <a href="https://discord.com/channels/@me">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <img align="right" src="https://github.com/user-attachments/assets/dcff66e9-02fa-443c-948e-e9ef3f9299f0" alt="i-am-not-a-security-threat" height="130" />
+    </td>
+  </tr>
+</table>
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true"></a>
 
 ## 🐍 Snake Animation  
 <img src="https://raw.githubusercontent.com/ChristinRaju/ChristinRaju/output/snake.svg" alt="Snake animation" />
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true"></a>
 
 ## 👀 Profile Visitors  
 <div align="center">
   <img src="https://profile-counter.glitch.me/ChristinRaju/count.svg?"  />
 </div>
-
-
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dcff66e9-02fa-443c-948e-e9ef3f9299f0" alt="i-am-not-a-security-threat" width="400" />
-</p>
-
