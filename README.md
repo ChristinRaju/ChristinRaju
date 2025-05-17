@@ -2,9 +2,13 @@
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
 
+---
+
 ## 🔹 About Me  
 
 Hey there! I'm **Christin Raju**, I'm deeply passionate about cybersecurity, ethical hacking, and networking. I thrive on breaking into systems (ethically, of course!) and learning how to make them more secure. With a strong interest in network security and web application security, I'm constantly exploring new attack vectors and defense strategies.
+
+---
 
 ### 🚀 Tech Stack & Skills  
 <div align="left">
@@ -28,7 +32,6 @@ Hey there! I'm **Christin Raju**, I'm deeply passionate about cybersecurity, eth
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
 </div>
-
 
 ---
 
@@ -60,9 +63,3 @@ Hey there! I'm **Christin Raju**, I'm deeply passionate about cybersecurity, eth
 <div align="center">
   <img src="https://profile-counter.glitch.me/ChristinRaju/count.svg?"  />
 </div>
-
-
-
-
-
-
