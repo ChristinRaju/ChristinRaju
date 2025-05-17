@@ -34,11 +34,20 @@ Hey there! I'm **Christin Raju**, I'm deeply passionate about cybersecurity, eth
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristinRaju&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristinRaju&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amri-tah&theme=dracula&hide_border=true">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristinRaju&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristinRaju&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150">
 </div>
 
 ---
+
+## 🌐 Socials:
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2006christinraju@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christin-raju/) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/christinraju)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/AIchristin/)
 
 ## 🐍 Snake Animation  
 <img src="https://raw.githubusercontent.com/ChristinRaju/ChristinRaju/output/snake.svg" alt="Snake animation" />
