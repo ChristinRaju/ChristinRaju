@@ -1,6 +1,6 @@
 <h1 align=center>👋 Hey there! I'm Christin Raju</h1>
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
 
 ## 🔹 About Me  
 
