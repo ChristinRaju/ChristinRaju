@@ -49,9 +49,10 @@ Hey there! I'm **Christin Raju**, I'm deeply passionate about cybersecurity, eth
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/christinraju)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/AIchristin/)
 
+---
+
 ## 🐍 Snake Animation  
 <img src="https://raw.githubusercontent.com/ChristinRaju/ChristinRaju/output/snake.svg" alt="Snake animation" />
-
 
 ---
 
