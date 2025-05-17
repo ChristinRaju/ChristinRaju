@@ -52,12 +52,6 @@ Hey there! I'm **Christin Raju**, I'm deeply passionate about cybersecurity, eth
 ## 🐍 Snake Animation  
 <img src="https://raw.githubusercontent.com/ChristinRaju/ChristinRaju/output/snake.svg" alt="Snake animation" />
 
----
-
-## 🔥 GitHub Streak  
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christinraju&" alt="christinraju" /></p>
-</div>
 
 ---
 
