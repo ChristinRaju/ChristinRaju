@@ -58,3 +58,11 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/ChristinRaju/count.svg?"  />
 </div>
+
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dcff66e9-02fa-443c-948e-e9ef3f9299f0" alt="i-am-not-a-security-threat" width="400" />
+</p>
+
