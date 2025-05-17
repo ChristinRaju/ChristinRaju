@@ -69,7 +69,7 @@
   </tr>
 </table>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true"></a>
+<a align="right" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true"></a>
 
 ## 🐍 Snake Animation  
 <img src="https://raw.githubusercontent.com/ChristinRaju/ChristinRaju/output/snake.svg" alt="Snake animation" />
