@@ -6,26 +6,17 @@
 
 
 ### 🚀 Tech Stack & Skills  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="C logo" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Java logo" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Ubuntu logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="VS Code logo" />
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true"></a>
