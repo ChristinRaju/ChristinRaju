@@ -71,9 +71,9 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true"></a>
 
 ## 👀 Profile Visitors  
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ChristinRaju/count.svg?"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuziaAnaJS&style=flat-square&color=F720D4" alt="Profile views" />
+</p>
 
 <img src="https://media.tenor.com/T8QoPzDdF_MAAAAi/loys.giff" width="100px" align="right" alt="">
 
