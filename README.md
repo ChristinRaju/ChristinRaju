@@ -1,4 +1,6 @@
-<h1 align=center>👋 Hey there! I'm Christin Raju</h1>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE2065&width=435&lines=++%E2%8B%86+%E2%8B%86+%E2%98%85+Hey+there!%2C+I'm+Christin+Raju+%E2%98%85++%E2%8B%86+%E2%8B%86" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="400" />
@@ -74,3 +76,4 @@
 </div>
 
 <img src="https://media.tenor.com/T8QoPzDdF_MAAAAi/loys.giff" width="100px" align="right" alt="">
+
