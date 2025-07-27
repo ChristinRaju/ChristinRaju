@@ -8,9 +8,10 @@
 ### 🚀 Tech Stack & Skills  
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="C logo" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Java logo" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="JavaScript logo" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="HTML5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="CSS3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Git logo" />
