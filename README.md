@@ -74,6 +74,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LuziaAnaJS&style=flat-square&color=F720D4" alt="Profile views" />
 </p>
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=74ff14&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
+
+<img src="https://media.tenor.com/T8QoPzDdF_MAAAAi/loys.giff" width="100px" align="left" alt="">
 
 <img src="https://media.tenor.com/T8QoPzDdF_MAAAAi/loys.giff" width="100px" align="right" alt="">
 
