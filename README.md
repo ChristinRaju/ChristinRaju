@@ -72,3 +72,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/ChristinRaju/count.svg?"  />
 </div>
+
+<img src="https://media.tenor.com/T8QoPzDdF_MAAAAi/loys.giff" width="100px" align="right" alt="">
