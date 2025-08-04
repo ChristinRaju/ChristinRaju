@@ -46,10 +46,10 @@
         <img src='https://github.com/HXMAN76/HXMAN76/blob/main/Assets/handshake.gif?raw=true' width="100px"> Socials:
       </h3>
       <a href="mailto:2006christinraju@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" />
       </a>
       <a href="https://www.linkedin.com/in/christin-raju/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" />
       </a>
       <a href="https://www.kaggle.com/christinraju">
         <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
