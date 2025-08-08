@@ -9,7 +9,7 @@
 
 ### 🚀 Tech Stack & Skills  
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="C logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="49" alt="C logo" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Java logo" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Python logo" />
@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Ubuntu logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="VS Code logo" />
+  <img src="https://img.icons8.com/color/48/visual-studio.png" style="height: 45; aspect-ratio: 1/1; object-fit: contain;" alt="VS Code Purple" />
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true"></a>
