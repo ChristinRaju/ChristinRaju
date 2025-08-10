@@ -42,31 +42,46 @@
 
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <h3>
-        <img src='https://github.com/HXMAN76/HXMAN76/blob/main/Assets/handshake.gif?raw=true' width="100px"> Socials:
+        <img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/handshake.gif?raw=true" width="60px" style="vertical-align:middle;"> Socials
       </h3>
-      <a href="mailto:2006christinraju@gmail.com">
-        <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" />
-      </a>
-      <a href="https://www.linkedin.com/in/christin-raju/">
-        <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" />
-      </a>
-      <a href="https://www.kaggle.com/christinraju">
+      <p>
+        <a href="mailto:2006christinraju@gmail.com">
+          <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" width="40px"/>
+        </a>
+        <a href="https://www.linkedin.com/in/christin-raju/">
+          <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" width="40px"/>
+        </a>
+        <a href="https://www.hackerrank.com/profile/2006christinraju" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" width="40px"/>
+        </a>
+        <a href="https://leetcode.com/u/AIchristin/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40px"/>
+        </a>
+        <a href="https://discord.com/channels/@me">
+          <img src="https://img.icons8.com/fluency/48/000000/discord.png" alt="Discord" width="40px"/>
+        </a>
+              <a href="https://www.kaggle.com/christinraju">
         <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
       </a>
-      <a href="https://leetcode.com/u/AIchristin/">
-        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06" />
-      </a>
-      <a href="https://discord.com/channels/@me">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-      </a>
+      </p>
     </td>
-    <td>
-      <img align="right" src="https://github.com/user-attachments/assets/dcff66e9-02fa-443c-948e-e9ef3f9299f0" alt="i-am-not-a-security-threat" height="130" />
+    <td align="right" valign="top">
+      <img src="https://github.com/user-attachments/assets/dcff66e9-02fa-443c-948e-e9ef3f9299f0" alt="i-am-not-a-security-threat" height="130px"/>
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
 
 <a align="right" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true"></a>
 
