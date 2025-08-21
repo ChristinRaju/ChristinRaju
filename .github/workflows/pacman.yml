@@ -1,38 +1,32 @@
-name: Generate Snake Animation
+name: Generate pacman animation
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: # execute every 12 hours
+    - cron: '* */12 * * *'
+
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+
 jobs:
-  build:
-    runs-on: ubuntu-latest
+  generate:
     permissions:
-      contents: write   # 🔑 This is missing!
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Generate Snake contribution graph
-        uses: Platane/snk@v3
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ChristinRaju
-          outputs: |
-            snake.svg
-            snake-dark.svg?palette=github-dark
+          github_user_name: ${{ github.repository_owner }}
 
-      - name: Create output directory
-        run: mkdir -p output
-
-      - name: Move generated files
-        run: mv snake*.svg output/
-
-      - name: Push generated files
-        uses: EndBug/add-and-commit@v9
+      - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          author_name: github-actions
-          author_email: actions@github.com
-          message: "Generated Snake animation"
-          add: "output/*"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
