@@ -1,4 +1,25 @@
 <div align="center">
+
+### Profile Views
+![](https://count.getloli.com/get/@happySP0816.github.readme)
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE2065&width=435&lines=++%E2%8B%86+%E2%8B%86+%E2%98%85+Hey+there!%2C+I'm+Christin+Raju+%E2%98%85++%E2%8B%86+%E2%8B%86" alt="Typing SVG" />
 </div>
 
