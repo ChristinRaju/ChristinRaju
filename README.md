@@ -12,24 +12,6 @@ Application Penetration Tester | Bug Bounty Hunter | Full-Stack Developer | Mach
 
 
 ### 🚀 Tech Stack & Skills  
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=c" height="49" alt="C logo" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Java logo" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Python logo" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="Ubuntu logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height: 40px; aspect-ratio: 1/1; object-fit: contain;" alt="VS Code logo" />
-  <img src="https://img.icons8.com/color/48/visual-studio.png" style="height: 45; aspect-ratio: 1/1; object-fit: contain;" alt="VS Code Purple" />
-</div>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%"></a>
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
