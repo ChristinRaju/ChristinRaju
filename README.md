@@ -87,9 +87,6 @@ Application Penetration Tester | Bug Bounty Hunter | Full-Stack Developer | Mach
         <a href="https://leetcode.com/u/AIchristin/" target="_blank" style="display:inline-block; vertical-align:middle;">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40px"/>
         </a>
-        <a href="https://www.kaggle.com/christinraju" style="display:inline-block; vertical-align:middle;">
-          <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
-        </a>
       </p>
     </td>
     <td align="right" valign="top">
