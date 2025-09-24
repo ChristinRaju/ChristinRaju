@@ -59,11 +59,12 @@ Application Penetration Tester | Bug Bounty Hunter | Full-Stack Developer | Mach
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristinRaju&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristinRaju&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristinRaju&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=60" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristinRaju&theme=dracula&show_icons=true&hide_border=true&layout=compact&cache_seconds=60" height="150">
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%"></a>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%">
+
 
 <table>
   <tr>
