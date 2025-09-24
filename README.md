@@ -82,12 +82,12 @@ Application Penetration Tester | Bug Bounty Hunter | Full-Stack Developer | Mach
         <a href="https://discord.com/channels/@me" style="display:inline-block; vertical-align:middle;">
           <img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord" width="40px"/>
         </a>
-        <a href="https://www.hackerrank.com/profile/2006christinraju" target="_blank" style="display:inline-block; vertical-align:middle;">
+        <!-- <a href="https://www.hackerrank.com/profile/2006christinraju" target="_blank" style="display:inline-block; vertical-align:middle;">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" width="40px"/>
         </a>
         <a href="https://leetcode.com/u/AIchristin/" target="_blank" style="display:inline-block; vertical-align:middle;">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40px"/>
-        </a>
+        </a> -->
       </p>
     </td>
     <td align="right" valign="top">
