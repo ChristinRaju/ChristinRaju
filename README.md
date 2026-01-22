@@ -6,8 +6,8 @@
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="400" />
 </p> 
 
-Application Penetration Tester | Bug Bounty Hunter | Full-Stack Developer | Machine Learning & Computer Vision Enthusiast | Cybersecurity & Security Research | LLM & Generative AI Explorer
-vibe coding + debugging 🧠✨
+Application Penetration Tester | Bug Bounty Hunter | Full-Stack Developer | Machine Learning & Computer Vision Enthusiast | Cybersecurity & Security Research | LLM & Generative AI Explorer  
+> 🧠✨ vibe coding + debugging
 
 💡 I’m a tech enthusiast and problem-solver with a deep passion for security, AI, and full-stack development. I enjoy penetration testing, bug bounty hunting, building intelligent web apps, and experimenting with cutting-edge AI models. My work blends creativity, technical depth, and real-world problem-solving.
 
