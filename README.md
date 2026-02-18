@@ -120,4 +120,3 @@ Application Penetration Tester | Bug Bounty Hunter | Full-Stack Developer | Mach
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=74ff14&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
- -->
