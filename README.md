@@ -2,9 +2,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE2065&width=435&lines=++%E2%8B%86+%E2%8B%86+%E2%98%85+Hey+there!%2C+I'm+Christin+Raju+%E2%98%85++%E2%8B%86+%E2%8B%86" alt="Typing SVG" />
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="400" />
-</p> 
+</p>  -->
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJveTc2N3ppdTN1aXExdXVncTBhY2lzNjdjandwcHVwY2ZsdGtrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" width="400" />
+</p>
 
 Application Penetration Tester | Bug Bounty Hunter | Full-Stack Developer | Machine Learning & Computer Vision Enthusiast | Cybersecurity & Security Research | LLM & Generative AI Explorer  
 > 🧠✨ vibe coding + debugging
