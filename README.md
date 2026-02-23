@@ -19,7 +19,7 @@
 
 ## About Me
 
-I’m a tech enthusiast 
+I’m a tech enthusiast  ![Image](https://github.com/user-attachments/assets/92732cfe-6ba2-443a-945e-084d71d8e3ac)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="250%">
 
