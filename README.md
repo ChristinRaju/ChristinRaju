@@ -2,21 +2,28 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE2065&width=435&lines=++%E2%8B%86+%E2%8B%86+%E2%98%85+Hey+there!%2C+I'm+Christin+Raju+%E2%98%85++%E2%8B%86+%E2%8B%86" alt="Typing SVG" />
 </div>
 
-<!-- <p align="center">
-  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="400" />
-</p>  -->
-
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJveTc2N3ppdTN1aXExdXVncTBhY2lzNjdjandwcHVwY2ZsdGtrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" width="350" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJveTc2N3ppdTN1aXExdXVncTBhY2lzNjdjandwcHVwY2ZsdGtrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" width="320" alt="coding gif" />
 </p>
 
-![Image](https://github.com/user-attachments/assets/6d1b6377-ec8b-4f37-b2bb-3b6c7f84cd4f) Application Penetration Tester | Bug Bounty Hunter | Full-Stack Developer | Machine Learning & Computer Vision Enthusiast | Cybersecurity & Security Research | LLM & Generative AI Explorer ![Image](https://github.com/user-attachments/assets/627e89d0-6473-4814-905c-175fa329e8b8)
-> 🧠✨ vibe coding + debugging 
+<p align="center"><em>🧠✨ vibe coding + debugging</em></p>
 
-![Image](https://github.com/user-attachments/assets/6d1b6377-ec8b-4f37-b2bb-3b6c7f84cd4f) 💡 I’m a tech enthusiast and problem-solver with a deep passion for security, AI, and full-stack development. I enjoy penetration testing, bug bounty hunting, building intelligent web apps, and experimenting with cutting-edge AI models. My work blends creativity, technical depth, and real-world problem-solving. ![Image](https://github.com/user-attachments/assets/627e89d0-6473-4814-905c-175fa329e8b8)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6d1b6377-ec8b-4f37-b2bb-3b6c7f84cd4f" alt="decorative left" width="28" />
+  Application Penetration Tester | Bug Bounty Hunter | Full‑Stack Developer | Machine Learning & Computer Vision Enthusiast | Cybersecurity & Security Research | LLM & Generative AI Explorer
+  <img src="https://github.com/user-attachments/assets/627e89d0-6473-4814-905c-175fa329e8b8" alt="decorative right" width="28" />
+</div>
 
+---
 
-### 🚀 Tech Stack & Skills  
+## About Me
+
+ I’m a tech enthusiast and problem-solver with a deep passion for security, AI, and full-stack development. I enjoy penetration testing, bug bounty hunting, building intelligent web apps, and experimenting with cutting-edge AI models. My work blends creativity, technical depth, and real-world problem-solving.
+
+---
+
+## Tech Stack
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -60,63 +67,41 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%"></a>
+---
 
-## 📊 GitHub Stats  
+## GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristinRaju&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=60" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristinRaju&theme=dracula&show_icons=true&hide_border=true&layout=compact&cache_seconds=60" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristinRaju&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=60" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristinRaju&theme=dracula&show_icons=true&hide_border=true&layout=compact&cache_seconds=60" height="150" alt="Top languages" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%">
+---
 
+## Socials
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3>
-        <img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/handshake.gif?raw=true" width="60px" style="vertical-align:middle;"> Socials
-      </h3>
-      <p>
-        <a href="mailto:2006christinraju@gmail.com" style="display:inline-block; vertical-align:middle;">
-          <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" width="40px"/>
-        </a>
-        <a href="https://www.linkedin.com/in/christin-raju/" style="display:inline-block; vertical-align:middle;">
-          <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" width="40px"/>
-        </a>
-        <a href="https://discord.com/channels/@me" style="display:inline-block; vertical-align:middle;">
-          <img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord" width="40px"/>
-        </a>
-        <!-- <a href="https://www.hackerrank.com/profile/2006christinraju" target="_blank" style="display:inline-block; vertical-align:middle;">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" width="40px"/>
-        </a>
-        <a href="https://leetcode.com/u/AIchristin/" target="_blank" style="display:inline-block; vertical-align:middle;">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40px"/>
-        </a> -->
-      </p>
-    </td>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="mailto:2006christinraju@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" width="40" /></a>
+  <a href="https://www.linkedin.com/in/christin-raju/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" width="40" /></a>
+  <a href="https://discord.com/channels/@me"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord" width="40" /></a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%"></a>
+---
 
-### 🟡👾 Pac-Man
+## Fun: Pac‑Man Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristinRaju/ChristinRaju/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristinRaju/ChristinRaju/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ChristinRaju/ChristinRaju/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%"></a>
+---
 
-## 👀 Profile Visitors  
+## Profile Visitors
+
 <div align="center">
-
-![](https://count.getloli.com/get/@happySP0816.github.readme)
+  <img src="https://count.getloli.com/get/@happySP0816.github.readme" alt="visitor counter" />
 </div>
 
-![Image](https://github.com/user-attachments/assets/92732cfe-6ba2-443a-945e-084d71d8e3ac)
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=74ff14&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label=&message=back+to+top&color=74ff14&style=flat" alt="back to top" /></a></p>
