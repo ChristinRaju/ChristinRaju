@@ -10,10 +10,10 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJveTc2N3ppdTN1aXExdXVncTBhY2lzNjdjandwcHVwY2ZsdGtrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" width="350" />
 </p>
 
-Application Penetration Tester | Bug Bounty Hunter | Full-Stack Developer | Machine Learning & Computer Vision Enthusiast | Cybersecurity & Security Research | LLM & Generative AI Explorer  
-> 🧠✨ vibe coding + debugging
+![Image](https://github.com/user-attachments/assets/6d1b6377-ec8b-4f37-b2bb-3b6c7f84cd4f) Application Penetration Tester | Bug Bounty Hunter | Full-Stack Developer | Machine Learning & Computer Vision Enthusiast | Cybersecurity & Security Research | LLM & Generative AI Explorer ![Image](https://github.com/user-attachments/assets/627e89d0-6473-4814-905c-175fa329e8b8)
+> 🧠✨ vibe coding + debugging 
 
-💡 I’m a tech enthusiast and problem-solver with a deep passion for security, AI, and full-stack development. I enjoy penetration testing, bug bounty hunting, building intelligent web apps, and experimenting with cutting-edge AI models. My work blends creativity, technical depth, and real-world problem-solving.
+![Image](https://github.com/user-attachments/assets/6d1b6377-ec8b-4f37-b2bb-3b6c7f84cd4f) 💡 I’m a tech enthusiast and problem-solver with a deep passion for security, AI, and full-stack development. I enjoy penetration testing, bug bounty hunting, building intelligent web apps, and experimenting with cutting-edge AI models. My work blends creativity, technical depth, and real-world problem-solving. ![Image](https://github.com/user-attachments/assets/627e89d0-6473-4814-905c-175fa329e8b8)
 
 
 ### 🚀 Tech Stack & Skills  
@@ -95,8 +95,6 @@ Application Penetration Tester | Bug Bounty Hunter | Full-Stack Developer | Mach
         </a> -->
       </p>
     </td>
-    <td align="right" valign="top">
-      <img src="https://github.com/user-attachments/assets/dcff66e9-02fa-443c-948e-e9ef3f9299f0" alt="i-am-not-a-security-threat" height="130px"/>
     </td>
   </tr>
 </table>
@@ -117,6 +115,8 @@ Application Penetration Tester | Bug Bounty Hunter | Full-Stack Developer | Mach
 
 ![](https://count.getloli.com/get/@happySP0816.github.readme)
 </div>
+
+![Image](https://github.com/user-attachments/assets/92732cfe-6ba2-443a-945e-084d71d8e3ac)
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=74ff14&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
