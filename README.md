@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE2065&width=435&lines=++%E2%8B%86+%E2%8B%86+%E2%98%85+Hey+there!%2C+I'm+Christin+Raju+%E2%98%85++%E2%8B%86+%E2%8B%86" alt="Typing intro" />
 </div>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://file.garden/Zi60LroOThYMNcal/Random%20Graphics/d1f7863ca07921c9017ad14414db44e8%20-%20Edited.png" width="300" height="300" />
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<!--ㅤ<img src="https://file.garden/Zi60LroOThYMNcal/Random%20Graphics/d1f7863ca07921c9017ad14414db44e8%20-%20Edited.png" width="300" height="300" /> -->
 
 
 
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJveTc2N3ppdTN1aXExdXVncTBhY2lzNjdjandwcHVwY2ZsdGtrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" width="320" alt="Coding animation" />
-</p> -->
+</p> 
 
 <p align="center"><em>🧠✨ vibe coding + debugging</em></p>
 
