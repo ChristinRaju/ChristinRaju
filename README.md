@@ -77,13 +77,27 @@ I’m a tech enthusiast  ![Image](https://github.com/user-attachments/assets/927
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="250%">
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="250%"> 
 
 ## 🎮 Games I Play 
 
 ![ROBLOX](https://img.shields.io/badge/ROBLOX-red?style=for-the-badge&logo=roblox)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="250%">
+
+
+
+<!-- ## Interactive System Experiment
+
+### Roblox Cinematic Experience — Environmental Storytelling
+
+A real-time interactive system exploring camera control, lighting psychology, and player-state manipulation to communicate meaning without UI or dialogue.
+
+[![Play the Experience](https://img.shields.io/badge/Play%20on-Roblox-red?style=for-the-badge&logo=roblox)](https://www.roblox.com/games/90378282464127/Hello-Valentine)
+
+→ Repository: https://github.com/arindam-codes/roblox-cinematic-experience -->
+
+
 
 ## Socials
 
