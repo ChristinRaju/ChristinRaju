@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="spiderman.png" width="230" />
+  <img src="spiderman.png" width="250" />
 </p>
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<!--ㅤ<img src="https://file.garden/Zi60LroOThYMNcal/Random%20Graphics/d1f7863ca07921c9017ad14414db44e8%20-%20Edited.png" width="300" height="300" /> -->
