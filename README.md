@@ -129,5 +129,3 @@ A real-time interactive system exploring camera control, lighting psychology, an
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label=&message=back+to+top&color=74ff14&style=flat" alt="back to top" /></a></p>
-
-<p>Read Me made by Dhaiwik RV @Peash02 . Useless Credits to @DrushyaGowda17</p>
