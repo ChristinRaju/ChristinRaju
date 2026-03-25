@@ -13,7 +13,12 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6d1b6377-ec8b-4f37-b2bb-3b6c7f84cd4f" width="28" />
   <strong>
-  Application Penetration Tester | Bug Bounty Hunter | Full‑Stack Developer | Machine Learning & Computer Vision Enthusiast | Cybersecurity & Security Research | LLM & Generative AI Explorer
+  <div align="center">
+
+Application Penetration Tester • Bug Bounty Hunter • Cloud Security • Full-Stack Developer • ML & Computer Vision • Cybersecurity Research • LLM & Generative AI
+
+</div>
+
   </strong>
   <img src="https://github.com/user-attachments/assets/627e89d0-6473-4814-905c-175fa329e8b8" width="28" />
 </div>
