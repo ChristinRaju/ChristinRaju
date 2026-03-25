@@ -31,7 +31,7 @@ I’m a tech enthusiast  ![Image](https://github.com/user-attachments/assets/927
 ## Tech Stack
 
 <p align="center">
-<p align="left">
+<!-- <p align="left"> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" height="40" alt="anaconda" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="40" alt="apache" />
