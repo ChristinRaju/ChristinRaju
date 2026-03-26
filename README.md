@@ -8,8 +8,6 @@
   <img src="spiderman.png" width="250" />
 </div>
 
-<p align="center"><em>🧠✨ vibe coding + debugging</em></p>
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6d1b6377-ec8b-4f37-b2bb-3b6c7f84cd4f" width="28" />
   <strong>
@@ -20,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 
-# 🧑‍💻 About Me
+# About Me
 
 <div align="center">
 I'm a tech boi 
@@ -28,10 +26,10 @@ I'm a tech boi
 <img src="https://github.com/user-attachments/assets/92732cfe-6ba2-443a-945e-084d71d8e3ac" width="120"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
 
 
-# ⚡ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -116,8 +114,7 @@ I'm a tech boi
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-
-# 🎮 Games I Play
+# Games I Play
 
 <div align="center">
 
@@ -128,7 +125,7 @@ I'm a tech boi
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 
-# 🌐 Socials
+# Socials
 
 <div align="center">
   <a href="mailto:2006christinraju@gmail.com">
@@ -145,16 +142,15 @@ I'm a tech boi
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 
-# 🟡 Pac‑Man Contributions
+
+
+# Pac-Man Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristinRaju/ChristinRaju/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristinRaju/ChristinRaju/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ChristinRaju/ChristinRaju/output/pacman-contribution-graph.svg">
 </picture>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 
 # 👀 Profile Visitors
 
@@ -166,4 +162,7 @@ I'm a tech boi
   <a href="#top">
     <img src="https://img.shields.io/static/v1?label=&message=back+to+top&color=74ff14&style=flat" />
   </a>
-</div>
+</div> 
+
+
+
