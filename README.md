@@ -136,9 +136,6 @@ I'm a tech boi
 # Socials
 
 <div align="center">
-  <a href="mailto:2006christinraju@gmail.com">
-    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" width="40" />
-  </a>
   <a href="https://www.linkedin.com/in/christin-raju/">
     <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" width="40" />
   </a>
